@@ -1,0 +1,26 @@
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\bin\Debug\Debug Server.exe.config
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\bin\Debug\Debug Server.exe
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\bin\Debug\Debug Server.pdb
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\obj\Debug\Debug Server.exe
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\obj\Debug\Debug Server.pdb
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\obj\Debug\Debug Server.csprojResolveAssemblyReference.cache
+D:\Projeler\AccountingSoftware\BackgroundCheck\Debug Server\Debug Server\obj\Debug\Debug Server.csproj.CoreCompileInputs.cache
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\Debug Server.exe.config
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\Debug Server.exe
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\Debug Server.pdb
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\DnsClient.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Bson.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Driver.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\System.Buffers.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\DnsClient.xml
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Bson.xml
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Driver.xml
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\obj\Debug\Debug Server.csprojResolveAssemblyReference.cache
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\obj\Debug\Debug Server.csproj.CoreCompileInputs.cache
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\obj\Debug\Debug Server.exe
+C:\Users\zuzu\Desktop\Debug Server\Debug Server\obj\Debug\Debug Server.pdb
