@@ -29,7 +29,7 @@ namespace Debug_Server
         public void SetupServer()
         {
             Console.WriteLine("Starting Server...");
-            _serverSocket.Bind(new IPEndPoint(IPAddress.Any, 28017));
+            _serverSocket.Bind(new IPEndPoint(IPAddress.Any, 4242));
             _serverSocket.Listen(5);
             _serverSocket.BeginAccept(AcceptCallback, null);
         }
